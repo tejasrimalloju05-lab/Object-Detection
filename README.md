@@ -30,3 +30,17 @@ This project demonstrates real-time object detection using Python and OpenCV. It
 * Integrate YOLO for improved accuracy.
 * Add support for custom-trained models.
 * Build a user-friendly interface using Streamlit.
+
+## Project Structure
+
+Object-Detection/
+│
+├── README.md
+├── Object detection.ipynb
+└── requirements.txt
+
+## Future Scope
+
+* Integrate YOLO models for improved detection accuracy.
+* Add real-time webcam detection.
+* Deploy the application using Streamlit.
